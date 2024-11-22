@@ -1,0 +1,46 @@
+[
+  {
+    "model": "exchange.order",
+    "pk": 3,
+    "fields": {
+      "crypto": 6,
+      "user": 1,
+      "amount": "1.00000000",
+      "price_per_unit": "13.00",
+      "is_settled": true
+    }
+  },
+  {
+    "model": "exchange.order",
+    "pk": 4,
+    "fields": {
+      "crypto": 2,
+      "user": 1,
+      "amount": "1.00000000",
+      "price_per_unit": "2.00",
+      "is_settled": true
+    }
+  },
+  {
+    "model": "exchange.order",
+    "pk": 5,
+    "fields": {
+      "crypto": 2,
+      "user": 1,
+      "amount": "2.00000000",
+      "price_per_unit": "2.00",
+      "is_settled": true
+    }
+  },
+  {
+    "model": "exchange.order",
+    "pk": 6,
+    "fields": {
+      "crypto": 2,
+      "user": 1,
+      "amount": "2.00000000",
+      "price_per_unit": "2.00",
+      "is_settled": true
+    }
+  }
+]

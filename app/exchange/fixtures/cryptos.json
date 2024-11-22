@@ -1,0 +1,50 @@
+[
+  {
+    "model": "exchange.crypto",
+    "pk": 1,
+    "fields": {
+      "name": "ALPHA",
+      "is_active": true
+    }
+  },
+  {
+    "model": "exchange.crypto",
+    "pk": 2,
+    "fields": {
+      "name": "BETA",
+      "is_active": true
+    }
+  },
+  {
+    "model": "exchange.crypto",
+    "pk": 3,
+    "fields": {
+      "name": "GAMMA",
+      "is_active": true
+    }
+  },
+  {
+    "model": "exchange.crypto",
+    "pk": 4,
+    "fields": {
+      "name": "DELTA",
+      "is_active": true
+    }
+  },
+  {
+    "model": "exchange.crypto",
+    "pk": 5,
+    "fields": {
+      "name": "EPSILON",
+      "is_active": true
+    }
+  },
+  {
+    "model": "exchange.crypto",
+    "pk": 6,
+    "fields": {
+      "name": "ZETA",
+      "is_active": true
+    }
+  }
+]

@@ -1,0 +1,4 @@
+-r base.txt
+
+sentry-sdk==2.18.0
+uWSGI==2.0.28

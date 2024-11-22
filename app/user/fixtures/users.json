@@ -1,0 +1,62 @@
+[
+  {
+    "model": "user.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$870000$Sp2Y6hN6WGoA1rov9gMYfq$fWCd1W2lWoXq/XxYBZuE5AAD2apksUARvY2LQJdDxFg=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "hamid",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-11-22T08:59:27.992Z",
+      "created": "2024-11-22T08:59:28.213Z",
+      "modified": "2024-11-22T08:59:28.213Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$870000$gcuNrF3sXzs9lW3nQcHc8U$P6T0DXsGWlxItu76MMyvBXUFuBaO3P25NxiQdurjy+s=",
+      "last_login": "2024-11-22T11:30:22.875Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "admin@xcrypto.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-11-22T11:29:06.678Z",
+      "created": "2024-11-22T11:29:07.032Z",
+      "modified": "2024-11-22T11:29:07.032Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "user.wallet",
+    "pk": 1,
+    "fields": {
+      "created": "2024-11-22T08:59:28.223Z",
+      "modified": "2024-11-22T12:30:45.332Z",
+      "balance": "1000.00",
+      "user": 1
+    }
+  },
+  {
+    "model": "user.wallet",
+    "pk": 2,
+    "fields": {
+      "created": "2024-11-22T11:29:07.043Z",
+      "modified": "2024-11-22T11:29:07.043Z",
+      "balance": "0.00",
+      "user": 2
+    }
+  }
+]

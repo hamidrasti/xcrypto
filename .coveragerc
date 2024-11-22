@@ -1,0 +1,5 @@
+[run]
+omit = */venv/*, */tests/*, tests.py, test_*.py, *_tests.py, manage.py, */factories.py
+
+[report]
+omit = */venv/*, */tests/*, tests.py, test_*.py, *_tests.py, manage.py, */factories.py
