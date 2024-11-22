@@ -50,7 +50,7 @@ Before you begin, ensure you have the following installed on your machine:
 Once the dependencies are installed, you can run the Django project manually.
 
 1. Run the Application:
-    - Use the uvicorn server to run the app:
+    - Use the django server to run the app:
 
    ```bash
    python manage.py runserver
